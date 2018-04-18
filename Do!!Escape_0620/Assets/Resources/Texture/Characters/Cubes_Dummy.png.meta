@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: c9eb11294e004a64dbad43e83e582141
+timeCreated: 1461688834
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sheep_Dummy
+    21300002: Snail_Dummy
+    21300004: Cubes_Dummy_2
+    21300006: Mombo_Dummy
+    21300008: Cubes_Dummy_4
+    21300010: Cubes_Dummy_5
+    21300012: Cubes_Dummy_6
+    21300014: Spider_Dummy
+    21300016: Cubes_Dummy_8
+    21300018: Eligate_Dummy
+    21300020: Slime_Dummy
+    21300022: Urchincl_Dummy
+    21300024: Urchinop_Dummy
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sheep_Dummy
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 403
+        width: 234
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 83.5}
+        - {x: 112, y: 87.5}
+        - {x: 43, y: 80.5}
+        - {x: 17, y: 94.5}
+        - {x: -43, y: 137.5}
+        - {x: -74, y: 137.5}
+        - {x: -31, y: 79.5}
+        - {x: -117, y: 18.5}
+        - {x: -117, y: -56.5}
+        - {x: -99, y: -107.5}
+        - {x: -81, y: -137.5}
+        - {x: 88, y: -137.5}
+        - {x: 113, y: -5.5}
+        - {x: 98, y: 40.5}
+        - {x: 117, y: 65.5}
+    - name: Snail_Dummy
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 431
+        width: 225
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 54.5}
+        - {x: -70.5, y: 54.5}
+        - {x: -106.5, y: 39.5}
+        - {x: -112.5, y: -12.5}
+        - {x: -112.5, y: -54.5}
+        - {x: -31.5, y: -54.5}
+        - {x: 33.5, y: -37.5}
+        - {x: 47.5, y: -6.5}
+        - {x: 47.5, y: 22.5}
+      - - {x: 52.5, y: 27.5}
+        - {x: 44.5, y: 20.5}
+        - {x: 44.5, y: 17.5}
+        - {x: 47.5, y: 14.5}
+        - {x: 59.5, y: 14.5}
+        - {x: 62.5, y: 17.5}
+        - {x: 62.5, y: 27.5}
+      - - {x: 39.5, y: 45.5}
+        - {x: 33.5, y: 40.5}
+        - {x: 32.5, y: 32.5}
+        - {x: 32.5, y: 23.5}
+        - {x: 34.5, y: 21.5}
+        - {x: 40.5, y: 21.5}
+        - {x: 45.5, y: 22.5}
+        - {x: 51.5, y: 34.5}
+        - {x: 51.5, y: 42.5}
+        - {x: 46.5, y: 45.5}
+      - - {x: 19.5, y: 43.5}
+        - {x: 19.5, y: 25.5}
+        - {x: 21.5, y: 24.5}
+        - {x: 30.5, y: 24.5}
+        - {x: 30.5, y: 42.5}
+        - {x: 27.5, y: 43.5}
+    - name: Mombo_Dummy
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 416
+        width: 176
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -68.5}
+        - {x: -59, y: -70.5}
+        - {x: -59, y: -83.5}
+        - {x: -57, y: -86.5}
+        - {x: -38, y: -86.5}
+        - {x: -36, y: -82.5}
+        - {x: -36, y: -68.5}
+      - - {x: 27, y: 80.5}
+        - {x: -76, y: 80.5}
+        - {x: -88, y: 50.5}
+        - {x: -88, y: -72.5}
+        - {x: -82, y: -77.5}
+        - {x: 74, y: -77.5}
+        - {x: 88, y: -56.5}
+        - {x: 88, y: 20.5}
+        - {x: 81, y: 58.5}
+      - - {x: -87, y: 64.5}
+        - {x: -66, y: 64.5}
+        - {x: -62, y: 66.5}
+        - {x: -62, y: 81.5}
+        - {x: -65, y: 86.5}
+        - {x: -86, y: 86.5}
+        - {x: -88, y: 85.5}
+        - {x: -88, y: 66.5}
+    - name: Spider_Dummy
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 437
+        width: 166
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 51.5}
+        - {x: -83, y: 34.5}
+        - {x: -83, y: -51.5}
+        - {x: 60, y: -51.5}
+        - {x: 83, y: -31.5}
+        - {x: 83, y: 23.5}
+        - {x: 65, y: 51.5}
+    - name: Eligate_Dummy
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 177
+        width: 323
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 62.5}
+        - {x: -124.5, y: 62.5}
+        - {x: -161.5, y: 19.5}
+        - {x: -161.5, y: -47.5}
+        - {x: -149.5, y: -62.5}
+        - {x: 125.5, y: -62.5}
+        - {x: 160.5, y: -61.5}
+        - {x: 161.5, y: -59.5}
+        - {x: 161.5, y: 37.5}
+        - {x: 151.5, y: 47.5}
+    - name: Slime_Dummy
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 176
+        width: 164
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 50}
+        - {x: -82, y: -54}
+        - {x: -80, y: -56}
+        - {x: 82, y: -56}
+        - {x: 82, y: -31}
+        - {x: 67, y: 56}
+        - {x: -80, y: 56}
+    - name: Urchincl_Dummy
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 215
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 40}
+        - {x: -47, y: 27}
+        - {x: -47, y: -26}
+        - {x: -37, y: -40}
+        - {x: 30, y: -40}
+        - {x: 47, y: -33}
+        - {x: 47, y: 29}
+        - {x: 27, y: 40}
+    - name: Urchinop_Dummy
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 232
+        width: 131
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 61}
+        - {x: -65.5, y: 26}
+        - {x: -65.5, y: -14}
+        - {x: -44.5, y: -13}
+        - {x: -41.5, y: -44}
+        - {x: -38.5, y: -57}
+        - {x: -23.5, y: -46}
+        - {x: 5.5, y: -61}
+        - {x: 21.5, y: -61}
+        - {x: 65.5, y: -47}
+        - {x: 65.5, y: 61}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

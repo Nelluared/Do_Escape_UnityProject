@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 4dcfdb455b527124fa2a187bd21ece16
+timeCreated: 1463932512
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WebBridge
+    21300002: Spider
+    21300004: WebPoint
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WebBridge
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1179
+        width: 339
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.92932, y: -5.1898804}
+        - {x: 99.07068, y: -5.1898804}
+        - {x: 99.07068, y: 5.8101196}
+        - {x: -98.92932, y: 5.8101196}
+    - name: Spider
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1001
+        width: 775
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.56494, y: -144.10779}
+        - {x: 181.56494, y: -148.10779}
+        - {x: 203.56494, y: -127.10779}
+        - {x: 226.56494, y: -120.10779}
+        - {x: 226.56494, y: -84.10779}
+        - {x: 199.56494, y: -14.107788}
+        - {x: 146.56494, y: 89.89221}
+        - {x: 130.56494, y: 117.89221}
+        - {x: 89.56494, y: 156.89221}
+        - {x: 65.56494, y: 171.89221}
+        - {x: 19.564941, y: 180.89221}
+        - {x: -44.43506, y: 180.89221}
+        - {x: -58.43506, y: 179.89221}
+        - {x: -125.43506, y: 169.89221}
+        - {x: -152.43506, y: 170.89221}
+        - {x: -155.43506, y: 135.89221}
+        - {x: -180.43506, y: 128.89221}
+        - {x: -189.43506, y: 119.89221}
+        - {x: -191.43506, y: 107.89221}
+        - {x: -191.43506, y: 99.89221}
+        - {x: -200.43506, y: 48.892212}
+        - {x: -216.43506, y: 9.892212}
+        - {x: -216.43506, y: -10.107788}
+        - {x: -209.43506, y: -26.107788}
+        - {x: -208.43506, y: -29.107788}
+        - {x: -203.43506, y: -33.107788}
+        - {x: -212.43506, y: -80.10779}
+        - {x: -212.43506, y: -128.10779}
+        - {x: -189.43506, y: -152.10779}
+        - {x: -173.43506, y: -157.10779}
+        - {x: -148.43506, y: -105.10779}
+        - {x: -137.43506, y: -148.10779}
+        - {x: -129.43506, y: -169.10779}
+        - {x: -106.43506, y: -179.10779}
+        - {x: -81.43506, y: -155.10779}
+        - {x: -76.43506, y: -118.10779}
+        - {x: -22.435059, y: -121.10779}
+        - {x: 0.5649414, y: -178.10779}
+        - {x: 8.564941, y: -180.10779}
+        - {x: 35.56494, y: -180.10779}
+        - {x: 46.56494, y: -157.10779}
+        - {x: 58.56494, y: -111.10779}
+        - {x: 95.56494, y: -109.10779}
+      - - {x: -54.43506, y: -171.10779}
+        - {x: -55.43506, y: -173.10779}
+        - {x: -55.43506, y: -179.10779}
+        - {x: -53.43506, y: -180.10779}
+        - {x: -46.43506, y: -180.10779}
+        - {x: -43.43506, y: -179.10779}
+        - {x: -43.43506, y: -173.10779}
+        - {x: -46.43506, y: -171.10779}
+      - - {x: -223.43506, y: -8.107788}
+        - {x: -223.43506, y: -5.107788}
+        - {x: -226.43506, y: -4.107788}
+        - {x: -226.43506, y: -9.107788}
+      - - {x: -216.43506, y: 24.892212}
+        - {x: -216.43506, y: 22.892212}
+        - {x: -213.43506, y: 19.892212}
+        - {x: -206.43506, y: 22.892212}
+        - {x: -206.43506, y: 25.892212}
+        - {x: -208.43506, y: 27.892212}
+        - {x: -214.43506, y: 26.892212}
+    - name: WebPoint
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 713
+        width: 339
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.29019, y: 70.7554}
+        - {x: 28.290192, y: 97.7554}
+        - {x: -45.70981, y: 97.7554}
+        - {x: -72.70981, y: 82.7554}
+        - {x: -98.70981, y: 52.7554}
+        - {x: -98.70981, y: -54.2446}
+        - {x: -35.70981, y: -97.2446}
+        - {x: 45.29019, y: -97.2446}
+        - {x: 76.29019, y: -90.2446}
+        - {x: 100.29019, y: -56.2446}
+        - {x: 100.29019, y: 32.7554}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 50be8ef9e23f6df43812aff9bd7c6945
+timeCreated: 1466359973
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ParanomaCrane_0
+    21300002: ParanomaCrane_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ParanomaCrane_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 48
+        width: 172
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.4760148, y: 0.120254844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.125458, y: 148.55457}
+        - {x: 6.125458, y: 212.55457}
+        - {x: 7.125458, y: 571.55457}
+        - {x: 11.125458, y: 1237.5546}
+        - {x: 5.125458, y: 1261.5546}
+        - {x: -16.874542, y: 1261.5546}
+        - {x: -23.874542, y: 1087.5546}
+        - {x: -16.874542, y: 1005.55457}
+        - {x: -15.874542, y: 232.55457}
+        - {x: -28.874542, y: 234.55457}
+        - {x: -68.87454, y: 7.5545654}
+        - {x: -81.87454, y: -40.445435}
+        - {x: -81.87454, y: -150.44543}
+        - {x: -30.874542, y: -172.44543}
+        - {x: 45.125458, y: -172.44543}
+        - {x: 74.12546, y: -148.44543}
+        - {x: 90.12546, y: -130.44543}
+        - {x: 90.12546, y: -40.445435}
+      - - {x: -18.874542, y: -72.445435}
+        - {x: -20.874542, y: -73.445435}
+        - {x: -20.874542, y: -76.445435}
+        - {x: -19.874542, y: -79.445435}
+        - {x: -15.874542, y: -79.445435}
+        - {x: -13.874542, y: -77.445435}
+        - {x: -13.874542, y: -74.445435}
+        - {x: -15.874542, y: -72.445435}
+      - - {x: -31.874542, y: -71.445435}
+        - {x: -31.874542, y: -76.445435}
+        - {x: -30.874542, y: -78.445435}
+        - {x: -26.874542, y: -78.445435}
+        - {x: -23.874542, y: -76.445435}
+        - {x: -23.874542, y: -72.445435}
+        - {x: -25.874542, y: -70.445435}
+        - {x: -28.874542, y: -70.445435}
+    - name: ParanomaCrane_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 49
+        width: 251
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.4671282, y: 0.1231318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126.750824, y: -160.57098}
+        - {x: 133.75082, y: -137.57098}
+        - {x: 133.75082, y: -43.570984}
+        - {x: 132.75082, y: -41.570984}
+        - {x: 14.750824, y: 207.42902}
+        - {x: 8.750824, y: 1233.429}
+        - {x: 3.750824, y: 1257.429}
+        - {x: -17.249176, y: 1257.429}
+        - {x: -24.249176, y: 1083.429}
+        - {x: -30.249176, y: 231.42902}
+        - {x: -117.249176, y: -17.570984}
+        - {x: -117.249176, y: -131.57098}
+        - {x: -112.249176, y: -140.57098}
+        - {x: -83.249176, y: -176.57098}
+        - {x: -60.249176, y: -176.57098}
+        - {x: -48.249176, y: -169.57098}
+        - {x: 43.750824, y: -122.570984}
+        - {x: 62.750824, y: -176.57098}
+        - {x: 104.750824, y: -176.57098}
+      - - {x: -52.249176, y: -76.570984}
+        - {x: -54.249176, y: -78.570984}
+        - {x: -54.249176, y: -81.570984}
+        - {x: -51.249176, y: -84.570984}
+        - {x: -49.249176, y: -84.570984}
+        - {x: -47.249176, y: -82.570984}
+        - {x: -47.249176, y: -79.570984}
+        - {x: -50.249176, y: -76.570984}
+      - - {x: -60.249176, y: -70.570984}
+        - {x: -64.249176, y: -74.570984}
+        - {x: -64.249176, y: -76.570984}
+        - {x: -62.249176, y: -78.570984}
+        - {x: -59.249176, y: -78.570984}
+        - {x: -56.249176, y: -75.570984}
+        - {x: -56.249176, y: -72.570984}
+        - {x: -58.249176, y: -70.570984}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

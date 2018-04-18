@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 38365055e5404cc41a1c48d9f763b7f1
+timeCreated: 1465474145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dummy_paranomaCrane_0
+    21300002: Dummy_paranomaCrane_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dummy_paranomaCrane_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 127
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.54457194, y: 0.10337198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.160637, y: 887.1471}
+        - {x: -30.160637, y: 355.1471}
+        - {x: -69.16064, y: 250.1471}
+        - {x: -69.16064, y: 228.1471}
+        - {x: -16.160637, y: 220.1471}
+        - {x: -69.16064, y: 0.14709473}
+        - {x: -69.16064, y: -72.852905}
+        - {x: -60.160637, y: -104.852905}
+        - {x: -34.160637, y: -91.852905}
+        - {x: -1.1606369, y: -70.852905}
+        - {x: 25.839363, y: -105.852905}
+        - {x: 57.839363, y: -105.852905}
+        - {x: 57.839363, y: 243.1471}
+        - {x: 54.839363, y: 247.1471}
+        - {x: 0.8393631, y: 880.1471}
+        - {x: -5.160637, y: 887.1471}
+    - name: Dummy_paranomaCrane_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 127
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5557148, y: 0.106135935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.424225, y: -108.6832}
+        - {x: 56.424225, y: -108.6832}
+        - {x: 56.424225, y: 884.3168}
+        - {x: -16.575775, y: 884.3168}
+        - {x: -23.575775, y: 880.3168}
+        - {x: -70.575775, y: 252.3168}
+        - {x: -70.575775, y: -108.6832}
+        - {x: 25.424225, y: -108.6832}
+        - {x: 41.424225, y: -89.6832}
+        - {x: 49.424225, y: -32.683197}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
